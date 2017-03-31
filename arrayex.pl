@@ -39,6 +39,7 @@ $string="Hello world how are you";
 $names="David,John,Michael,Smith,Ramesh,Hira";
 print("Strings are= $string\n,$names\n");
 @arrstring=split(' ',$string);
+
 #we can also use // to provide split parameter.
 @arrnames=split(/,/,$names);
 print("$arrstring[3]\n");
