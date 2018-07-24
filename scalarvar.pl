@@ -1,5 +1,5 @@
 #This program is to print scalar variable.
-$a1=100;
+$a1=1000;
 $a2="\UHello";
 $a3=9.90;
 $a4='\lH';
